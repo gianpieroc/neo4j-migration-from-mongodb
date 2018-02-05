@@ -1,0 +1,21 @@
+{
+  "name": "neo4j-nodejs",
+  "version": "1.0.0",
+  "description": "proyecto fase 2 nosql ",
+  "main": "index.js",
+  "author": "Gianpiero Costanza",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "chalk": "^2.3.0",
+    "mongoose": "5.0.3",
+    "neo4j-driver": "1.5.3"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-preset-env": "1.6.1"
+  }
+}
